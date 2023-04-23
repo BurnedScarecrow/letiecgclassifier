@@ -1,0 +1,9 @@
+name: conda_env
+dependencies:
+  - flask
+  - keras
+  - matplotlib
+  - numpy
+  - pandas
+  - tensorflow
+
